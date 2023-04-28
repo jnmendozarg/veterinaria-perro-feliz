@@ -407,6 +407,12 @@ h4, .h4 {
     font-size: calc(1.275rem + 0.3vw) ;
   }
 }
+hr{
+  background-color: gainsboro;
+  width: 60%;
+  margin-left: 0%;
+
+}
 
 h5, .h5 {
   font-size: 1.25rem;
@@ -637,6 +643,8 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+  align-items: center;
+  justify-content: center;
 }
 
 .no-gutters {
